@@ -1,0 +1,24 @@
+       * {
+           padding: 0px;
+           margin: 0px;
+       }
+
+       .nav_bar ul li a {
+           color: black;
+       }
+
+       .nav_bar ul li i {
+           color: rgb(56, 93, 255);
+       }
+
+
+       .nav_bar ul li {
+           margin-top: 7px;
+       }
+
+
+
+       .data_info select {
+           color: rgb(156, 156, 156);
+           /* Default color */
+       }
